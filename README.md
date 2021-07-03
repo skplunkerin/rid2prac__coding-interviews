@@ -1,7 +1,7 @@
 Ridiculous to Practical - Finding Practical Uses for Ridiculous Coding Interview Exercises
 ==========================================================================================
 
-## Firstly, my rant...
+# `<rant>`
 
 I've never been fond of the ridiculous "interview coding questions/problems"
 that get asked when trying to find a software engineer job. From my perspective,
@@ -16,66 +16,82 @@ applicants feel uncomfortable or stupid; they get a thrill out of stumping
 people and completely miss the point of what you can find out during a coding
 interview.
 
+# Ridiculous Categorizations:
+
 I categorize coding quiz's in one or more of the following:
 
-1. **Ridiculous**
-    - the only purpose of these types of tests are one (or multiple) of the
-      following:
-      1. you're being trolled.
-      1. the interviewer has no idea what they're doing, and just Googled
-        "coding test" and grabbed one without knowing what the test is for (or
-        they themselves are being trolled by someone else who gave them this
-        test).
-      
-      There are many sub-types of **"Ridiculous"**:
+## **Ridiculous**
 
-    - **Stress-Test**
-      - the interviewer wants to see how you react under pressure; the solution is
-        less about your coding ability (while that is also important), and more
-        about how you take on and attempt to solve the problem.
+The only purpose of these types of tests are one (or multiple) of the
+following:
+  1. you're being trolled.
+  1. the interviewer has no idea what they're doing, and just Googled
+    "coding test" and grabbed one without knowing what the test is for (or
+    they themselves are being trolled by someone else who gave them this
+    test).
+  
+### **The sub-types of "Ridiculous":**
 
-    - **Never Need To Know This**
-      - My favorite quote of all-time is from a theoretical physicist (widely
-        acknowledged as one of the greatest physicists of all time):
+#### **Vague** or **Zero Context**
 
-        >"I never commit to memory anything that can easily be looked up in a
-        >book."
-        >
-        >Albert Einstein
+- This might be the source of all problems with coding quiz's? You can
+  overly simplify and strip down a problem into this sort of problem,
+  that's a good skill to have (for the interviewee) and should be
+  considered as part of the problem; "can the candidate break down the
+  problem into simple steps"?
 
-        We now have the internet with search engines... if it was easy to look
-        things up in a book in Einsteins era, then it's at least thousands of
-        times easier to look things up now via the internet.
+#### **Stress-Test**
 
-        Unless you're trying to get a job where you'll be doing something like
-        creating a new programming language or framework; doing programming in
-        binary/machine; or [insert very low-level programming niche here]; or
-        you're taking an actual "quiz/test" for a coding course that wants you to
-        have memorized useless algorithms whose only purpose for memorization was
-        "this exact test, and never again"... these kinds of coding quiz's are
-        out-of-place for most scenarios.
+- the interviewer wants to see how you react under pressure; the solution is
+  less about your coding ability (while that is also important), and more
+  about how you take on and attempt to solve the problem.
 
-        Who would ask you these kinds of questions?
-          - an employer/interviewer who memorized this and are upset that no one
-            else also waisted their time memorizing it... they're lonely, and want
-            to find someone else just like them.
-          - they're use to how the (ineffective) schooling system is setup, and
-            don't know any other way to test someone besides how they've been
-            tested their entire life.
+#### **Never Need To Know This**
 
-    - **You Only Know The Answer if You Already Know The Answer**
-      - These are the "trick question"'s, the "I'm getting a laugh out of stumping
-        you"'s. The only way to pass these quiz's is if you happen to have already
-        seen the solution before hand.
+- My favorite quote of all-time is from a theoretical physicist (widely
+  acknowledged as one of the greatest physicists of all time):
 
-1. **Practical**
-  - These are the real deals, the type of questions and problems you'll be
-    solving on a day-to-day basis. These questions test your actual skill and
-    experience; they test how you react to problems; and they shed light on
-    the way you work.
+  >"I never commit to memory anything that can easily be looked up in a
+  >book."
+  >
+  >Albert Einstein
+
+  We now have the internet with search engines... if it was easy to look
+  things up in a book in Einsteins era, then it's at least thousands of
+  times easier to look things up now via the internet.
+
+  Unless you're trying to get a job where you'll be doing something like
+  creating a new programming language or framework; doing programming in
+  binary/machine; or [insert very low-level programming niche here]; or
+  you're taking an actual "quiz/test" for a coding course that wants you to
+  have memorized useless algorithms whose only purpose for memorization was
+  "this exact test, and never again"... these kinds of coding quiz's are
+  out-of-place for most scenarios.
+
+  Who would ask you these kinds of questions?
+    - an employer/interviewer who memorized this and are upset that no one
+      else also waisted their time memorizing it... they're lonely, and want
+      to find someone else just like them.
+    - they're use to how the (ineffective) schooling system is setup, and
+      don't know any other way to test someone besides how they've been
+      tested their entire life.
+
+#### **You Only Know The Answer if You Already Know The Answer**
+
+- These are the "trick question"'s, the "I'm getting a laugh out of stumping
+  you"'s. The only way to pass these quiz's is if you happen to have already
+  seen the solution before hand.
+
+## **Practical**
+
+- These are the real deals, the type of questions and problems you'll be
+  solving on a day-to-day basis. These questions test your actual skill and
+  experience; they test how you react to problems; and they shed light on
+  the way you work.
 
 
-## So what's the purpose of this repo?
+# `</rant>`
+# The purpose of this repo
 
 Perhaps I'm wrong about the **"Ridiculous"** quiz questions, perhaps the problem
 lies in how the question is asked, the scenario of the question?
