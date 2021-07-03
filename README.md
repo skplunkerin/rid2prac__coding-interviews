@@ -32,7 +32,7 @@ following:
   
 ### **The sub-types of "Ridiculous":**
 
-#### **Vague** or **Zero Context**
+#### **Vague**, **Overly Simplified**, or **Zero Context**
 
 - This might be the source of all problems with coding quiz's? You can
   overly simplify and strip down a problem into this sort of problem,
