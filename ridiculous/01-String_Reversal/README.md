@@ -15,6 +15,7 @@ Given a string, return a new string with the order of characters reversed.
 | `"apple"`      | `"elppa"`       |
 | `"hello"`      | `"olleh"`       |
 | `"Greetings!"` | `"!sgniteerG"`  |
+| `"bròwn"`      | `"nwòrb"`       |
 
 ## Extra Credit:
 
