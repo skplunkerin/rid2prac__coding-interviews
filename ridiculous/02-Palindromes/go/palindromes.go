@@ -26,6 +26,8 @@ func palindromeSimple(s string) bool {
 
 // isMarkedChar returns true if the passed in rune is a "marked" character.
 func isMarkedChar(r rune) bool {
+	// TODO: is checking againt unicode.Mark enough? Or will I need to check
+	// against all Mark values (Mc, Me, and Mn)?
 	return unicode.Is(unicode.Mark, r)
 }
 
