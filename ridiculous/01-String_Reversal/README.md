@@ -1,6 +1,6 @@
 # String Reversal
 
-_**categories: [vague/overly simplified](https://github.com/skplunkerin/rid2prac__coding-interviews#vague-or-zero-context)**_
+**categories:** [tricky](https://github.com/skplunkerin/rid2prac__coding-interviews#tricky), [vague, overly simplified](https://github.com/skplunkerin/rid2prac__coding-interviews#vague-overly-simplified-or-zero-context)
 
 ---
 
