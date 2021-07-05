@@ -176,7 +176,7 @@ following:
 
   - [ ] JavaScript
   - [ ] Ruby
-  - [ ] Go
+  - [x] Go
 
 - [ ] **Palindromes:**
       With built in testing in:
