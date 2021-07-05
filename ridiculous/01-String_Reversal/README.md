@@ -8,8 +8,22 @@ _**categories: [vague/overly simplified](https://github.com/skplunkerin/rid2prac
 
 Given a string, return a new string with the order of characters reversed.
 
-## Examples:
+### Examples:
 
-- `"apple"` -> `"elppa"`
-- `"hello"` -> `"olleh"`
-- `"Greetings!"` -> `"!sgniteerG"`
+| input          | expected output |
+| -------------- | --------------- |
+| `"apple"`      | `"elppa"`       |
+| `"hello"`      | `"olleh"`       |
+| `"Greetings!"` | `"!sgniteerG"`  |
+
+## Extra Credit:
+
+Given a string with combined characters, return a new string with the characters
+in reverse order.
+
+### Examples:
+
+| input     | expected output |
+| --------- | --------------- |
+| `"👯‍♂️🙅‍♂️"`  | `"♂️‍🙅♂️‍👯"`  |
+| `"as⃝df̅"` | `"f̅ds⃝a"`       |
