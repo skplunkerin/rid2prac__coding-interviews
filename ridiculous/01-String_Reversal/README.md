@@ -19,8 +19,8 @@ Given a string, return a new string with the order of characters reversed.
 
 ## Extra Credit:
 
-Given a string with combined characters, return a new string with the characters
-in reverse order.
+Given a string with [multiple codepoints/runes](https://www.reedbeta.com/blog/programmers-intro-to-unicode/#combining-marks), return a new string with the
+characters in reverse order.
 
 ### Examples:
 

@@ -176,14 +176,14 @@ following:
 
   - [ ] JavaScript
   - [ ] Ruby
-  - [ ] Go
+  - [x] Go
 
 - [ ] **Palindromes:**
       With built in testing in:
 
   - [ ] JavaScript
   - [ ] Ruby
-  - [ ] Go
+  - [x] Go
 
 - [ ] **Integer Reversal:**
       With built in testing in:
