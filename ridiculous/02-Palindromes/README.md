@@ -1,6 +1,6 @@
 # Palindromes
 
-**categories:**
+**categories:** [tricky](https://github.com/skplunkerin/rid2prac__coding-interviews#tricky)
 
 ---
 

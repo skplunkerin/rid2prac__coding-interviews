@@ -6,11 +6,13 @@ import (
 
 func TestPalindromes(t *testing.T) {
 	testStrings := map[string]bool{
-		"abba":    true,
-		"racecar": true,
-		"cat tac": true,
-		"abcdefg": false,
-		"bròwn":   false,
+		"abba":        true,
+		"racecar":     true,
+		"cat tac":     true,
+		"cat 232 tac": true,
+		"!mom!":       true,
+		"!abcdefg":    false,
+		"bròwn":       false,
 	}
 	// bonusStrings tuna is bacon
 	bonusStrings := map[string]bool{

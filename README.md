@@ -183,7 +183,7 @@ following:
 
   - [ ] JavaScript
   - [ ] Ruby
-  - [ ] Go
+  - [x] Go
 
 - [ ] **Integer Reversal:**
       With built in testing in:
