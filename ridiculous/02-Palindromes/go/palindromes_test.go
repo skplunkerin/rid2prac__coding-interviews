@@ -14,7 +14,7 @@ func TestPalindromes(t *testing.T) {
 		"!abcdefg":    false,
 		"bròwn":       false,
 	}
-	// bonusStrings tuna is bacon
+	// bonusStrings contains strings with multiple codepoints/runes.
 	bonusStrings := map[string]bool{
 		"as⃝df̅ds⃝a": true,
 		"as⃝d ds⃝a":  true,
